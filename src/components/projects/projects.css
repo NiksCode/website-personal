@@ -1,0 +1,41 @@
+
+.reference {
+  display: inline-block;
+  width: 100%;
+  z-index: 1;
+}
+
+.headline {
+  color: #FFFFFF;
+}
+
+.teaser-img {
+  float: left;
+  height: 100%;
+  z-index: 1;
+}
+
+.github-background-img {
+  background: rgba(22, 21, 28, 0.84) !important;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  z-index: 1;
+}
+
+
+#root > div > div.section.background > div > div > div > div > div:nth-child(1) > img{
+  height:80px !important;
+  width:80px !important;
+}
+
+#root > div > div.section.background > div{
+  max-width: 100%;
+  text-align: center;
+}
+
+.card {
+  width:300px;
+  display: inline-block;
+  margin:1em;
+}

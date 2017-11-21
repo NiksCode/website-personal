@@ -1,0 +1,13 @@
+.code {
+  color: rgba(255, 255, 255, 0.51);
+  font-family: Roboto;
+  font-weight: 300;
+  text-align: center;
+  height:20em;
+  font-size:16px;
+}
+
+.code-tag {
+  font-size: 18pt;
+  font-weight: 500;
+}
